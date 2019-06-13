@@ -1,0 +1,4 @@
+The internet is a global network while the web is a collection of information which is accessed from the internet.
+Thei nternet is a publically available worldwide system of connected computer networks that transmit data to each other in forms of packets.
+A directory is a location for storing files on a computer. 
+VCS allows you to compare files and identify differences and make changes.
