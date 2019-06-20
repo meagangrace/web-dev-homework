@@ -1,0 +1,7 @@
+1- Data travels across the internet in packets
+
+2- An IP address is an address assigned to a computer to identify it on a network. A domain name service is used to convert alphabetical references into a server's IP address for hosting.
+
+3- Cookies are small files stored on a computer that hold information
+
+4- Protocol, Domain name and path
