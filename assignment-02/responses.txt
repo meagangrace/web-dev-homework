@@ -1,7 +1,0 @@
-Data travels across the internet in packets
-
-An IP address is an address assigned to any computer to identify it on a network. A Domain Name Service is used to convert alphabetical references into a server's IP address for hosting
-
-Cookies are small files stored on a computer and hold information
-
-Protocol, Domain Name and Path
