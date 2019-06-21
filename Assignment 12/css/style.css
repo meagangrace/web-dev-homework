@@ -1,0 +1,13 @@
+h1 {
+  font-family:monospace, fantasy;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2.5em;
+}
+
+p {
+  font-family:inherit, sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.5em;
+}
