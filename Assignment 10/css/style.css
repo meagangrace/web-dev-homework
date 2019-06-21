@@ -1,0 +1,31 @@
+h1, h2 {
+  font-family: fantasy;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.5em;
+}
+.main-content p:first-child::first-line {
+  color: #FF00FF;
+}
+
+p {
+  font-family: 'cursive', 'fantasy';
+  font-weight: normal;
+  font-style: italic;
+}
+
+.main-content link:first-child{
+  text-indent: 0;
+}
+
+  .change-01 {
+  font-size: 75%;
+}
+
+.change-02 {
+  font-size: 125%;
+}
+
+.change-03 {
+  font-size: 150%;
+}
